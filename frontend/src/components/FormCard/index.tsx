@@ -1,5 +1,5 @@
-import { type } from "os";
-import axios, {Axios, AxiosRequestConfig} from "axios";
+
+import axios, {AxiosRequestConfig} from "axios";
 import { useEffect, useState } from "react";
 import { Link, useNavigate,} from "react-router-dom";
 import { Movie } from "types/movie";
